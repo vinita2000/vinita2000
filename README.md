@@ -15,6 +15,8 @@ I am an India based computer science student and web developer, I am currenlty p
 <a href="https://www.linkedin.com/in/vinita-yadav-237725169/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/linkedIn.png" /></a>
 <a href="mailto:vinitayadavlkw225@gmail.com" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/email.png" /></a>
 <a href="https://stackoverflow.com/users/10667128/vinita" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/stackoverflow.png" /></a>
+<a href="https://twitter.com/lla_vini" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/twitter.png" /></a>
+<a href="https://www.instagram.com/on_seventh_sky/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/instagram.png" /></a>
 
 <br/>
 <br/>
