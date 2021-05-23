@@ -8,6 +8,10 @@
 <a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/portfolio1.png" /></a>
 <a href="https://www.linkedin.com/in/vinita-yadav-237725169/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/linkedIn.png" /></a>
 <a href="mailto:vinitayadavlkw225@gmail.com" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/email.png" /></a>
+<a href="https://stackoverflow.com/users/10667128/vinita" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/stackoverflow.png" /></a>
+
+<br/>
+<br/>
 <!--
 **vinita2000/vinita2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,12 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
-<br/>
-# 🌱 About Me
 
-- :ribbon: I can speak and write fluently in Hindi and English :ribbon:
 
-- 📫 How to reach me: 
-     - :email: [Gmail](mailto:vinitayadavlkw225@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-     - 💬 [LinkedIn](https://www.linkedin.com/in/vinita-yadav-237725169/)
