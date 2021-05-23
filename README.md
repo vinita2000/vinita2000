@@ -2,6 +2,12 @@
 <img alt="Profile-Image" src="https://github.com/vinita2000/profile-images/blob/master/girlwithlaptop.png" width="400" height="400">
 <br/>
 <br/>
+
+###   :fairy_woman:  About Me  :fairy_woman:
+I am an India based computer science student and web developer, I am currenlty pursuing my B.Tech from [IIIT-Dharwad](https://iiitdwd.ac.in/), I am passionate about coding and web development.
+
+<br/>
+<br/>
  
 ###    :thought_balloon:  Social Links  :thought_balloon:
 
