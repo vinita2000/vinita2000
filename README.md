@@ -1,4 +1,4 @@
-   #     :blossom:  Hi I am <a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank">Vinita</a>  :blossom:
+   #     :blossom:  Hi, I am <a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank">Vinita</a>  :blossom:
 <img alt="Profile-Image" src="https://github.com/vinita2000/profile-images/blob/master/girlwithlaptop.png" width="400" height="400">
 <br/>
 <br/>
