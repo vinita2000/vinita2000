@@ -55,8 +55,12 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <br/>
 
-[![Vinita's github stats](https://github-readme-stats.vercel.app/api?username=vinita2000&theme=vue&include_all_commits=true&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+![Vinita's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinita2000&count_private=true&show_icons=true)
+)
 
 
+<hr>
+
+<br/>
 
 
