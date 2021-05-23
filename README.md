@@ -2,6 +2,8 @@
 <img alt="Profile-Image" src="https://github.com/vinita2000/profile-images/blob/master/girlwithlaptop.png" width="400" height="400">
 <br/>
 <br/>
+- Social Links 
+<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 
 
 <!--
