@@ -52,6 +52,9 @@ I am an India based computer science student and web developer, I am currenlty p
 <hr>
 
 <br/>
+
+[![Vinita's github stats](https://github-readme-stats.vercel.app/api?username=vinita2000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **vinita2000/vinita2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
