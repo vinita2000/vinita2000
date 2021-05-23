@@ -2,9 +2,8 @@
 <img alt="Profile-Image" src="https://github.com/vinita2000/profile-images/blob/master/girlwithlaptop.png" width="400" height="400">
 <br/>
 <br/>
-
-- Social Links 
-
+ 
+###    :thought_balloon:  Social Links  :thought_balloon:
 
 <a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/portfolio1.png" /></a>
 <a href="https://www.linkedin.com/in/vinita-yadav-237725169/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/linkedIn.png" /></a>
@@ -23,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<br/>
 # 🌱 About Me
 
 - :ribbon: I can speak and write fluently in Hindi and English :ribbon:
