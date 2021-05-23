@@ -1,4 +1,7 @@
 # Hi I am Vinita 👋
+<img src="https://github.com/vinita2000/profile-images/blob/master/girlwithlaptop.png">
+<br/>
+<br/>
 
 <!--
 **vinita2000/vinita2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌱 I’m currently learning and working on Backend with Node js and MongoDB
+# 🌱 About Me
 
-- :ribbon: I can speak and write Hindi and English :ribbon:
+- :ribbon: I can speak and write fluently in Hindi and English :ribbon:
 
 - 📫 How to reach me: 
      - :email: [Gmail](mailto:vinitayadavlkw225@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
