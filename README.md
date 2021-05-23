@@ -6,6 +6,7 @@
 - Social Links 
 
 
+<a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/portfolio1.png" /></a>
 <a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile-images/blob/master/portfolio.png" /></a>
 
 <!--
