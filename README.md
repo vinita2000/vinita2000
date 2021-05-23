@@ -20,6 +20,7 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <br/>
 <br/>
+<br/>
 
 
 ### Languages and Tools:
@@ -32,8 +33,9 @@ I am an India based computer science student and web developer, I am currenlty p
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Javascript" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/css.png" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Javascript" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/python.png" /></a>
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 <!--
 **vinita2000/vinita2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
