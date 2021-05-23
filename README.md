@@ -6,7 +6,7 @@
 - Social Links 
 
 
-<a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="22px" src=<img src="https://img.icons8.com/bubbles/50/000000/globe.png"/></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
 <a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
