@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning and working on Backend with Node js and MongoDB
+
+- 📫 How to reach me: 
+    - :email: [vinitayadavlkw225@gmail.com](vinitayadavlkw225@gmail.com)
