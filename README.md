@@ -59,7 +59,7 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=vinita2000&color=green)
+![](https://komarev.com/ghpvc/?username=vinita2000&color=green&style=plastic)
 
 <br />
 
