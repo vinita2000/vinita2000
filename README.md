@@ -1,5 +1,5 @@
 # Hi I am Vinita 👋
-<img src="https://github.com/vinita2000/profile-images/blob/master/girlwithlaptop.png" width="200" height="200" align="center">
+<img src="https://github.com/vinita2000/profile-images/blob/master/girlwithlaptop.png" width="400" height="400" align="center">
 <br/>
 <br/>
 
