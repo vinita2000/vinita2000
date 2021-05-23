@@ -1,4 +1,4 @@
-### Hi I am Vinita 👋
+# Hi I am Vinita 👋
 
 <!--
 **vinita2000/vinita2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
