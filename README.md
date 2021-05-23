@@ -1,12 +1,20 @@
    #     :hibiscus:  Hi, I am <a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank">Vinita</a>  :hibiscus:
 <img alt="Profile-Image" src="https://github.com/vinita2000/profile/blob/master/git-img/girlwithlaptop.png" width="400" height="400">
+
 <br/>
 <br/>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<hr>
+
+<br/>
 ###   :fairy_woman:  About Me  :fairy_woman:
 I am an India based computer science student and web developer, I am currenlty pursuing my B.Tech from [IIIT-Dharwad](https://iiitdwd.ac.in/), I am passionate about coding and web development.
 
 <br/>
+<br/>
+
+<hr>
+
 <br/>
  
 ###    :thought_balloon:  Social Links  :thought_balloon:
@@ -22,6 +30,9 @@ I am an India based computer science student and web developer, I am currenlty p
 <br/>
 <br/>
 
+<hr>
+
+<br/>
 
 ### Languages and Tools:
 
@@ -35,6 +46,10 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <br/>
 <br/>
+<br/>
+
+<hr>
+
 <br/>
 <!--
 **vinita2000/vinita2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
