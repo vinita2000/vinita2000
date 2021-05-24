@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=vinita2000&color=green&style=plastic&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=vinita2000&color=green&style=plastic&label=VISITS!!)
 
 <hr>
 
