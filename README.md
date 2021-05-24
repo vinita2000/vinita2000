@@ -59,9 +59,11 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=vinita2000&color=green&style=plastic&label=VIEWS)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?vinita2000" frameborder="0"></iframe>
 
 <br />
+
+![](https://komarev.com/ghpvc/?username=vinita2000&color=green&style=plastic&label=VIEWS)
 
 <hr>
 
