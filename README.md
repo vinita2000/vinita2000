@@ -4,6 +4,8 @@
 <br/>
 <br/>
 
+![](https://komarev.com/ghpvc/?username=vinita2000&color=green&style=plastic&label=VIEWS)
+
 <hr>
 
 <br/>
@@ -67,11 +69,6 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <hr>
 
-<br />
-
-![](https://komarev.com/ghpvc/?username=vinita2000&color=green&style=plastic&label=VIEWS)
-
-<hr>
 
 <br/>
 
