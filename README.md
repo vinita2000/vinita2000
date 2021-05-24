@@ -59,11 +59,11 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <br />
 
-[Vinita's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinita2000)]
+[Vinita's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinita2000)
 
 <br />
 
-[Vinita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinita2000)]
+[Vinita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinita2000)
 
 <br />
 
