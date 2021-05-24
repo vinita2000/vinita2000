@@ -59,7 +59,11 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <br />
 
-![Most Commonly Used Languages](<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?vinita2000" frameborder="0"></iframe>)
+[Vinita's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinita2000)]
+
+<br />
+
+[Vinita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinita2000)]
 
 <br />
 
