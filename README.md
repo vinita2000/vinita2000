@@ -1,4 +1,4 @@
-   #     :hibiscus:  Hi, I am <a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank">Vinita</a>  :hibiscus:
+   #     :hibiscus:  Hi and Namaste :pray:, I am <a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank">Vinita</a>  :hibiscus:
 <img alt="Profile-Image" src="https://github.com/vinita2000/profile/blob/master/git-img/girlwithlaptop.png" width="400" height="400">
 
 <br/>
