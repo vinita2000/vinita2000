@@ -59,7 +59,7 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <br />
 
-![Most Commonly Used Languages](https://ionicabizau.github.io/github-profile-languages/api.html?vinita2000)
+![Most Commonly Used Languages](<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?vinita2000" frameborder="0"></iframe>)
 
 <br />
 
