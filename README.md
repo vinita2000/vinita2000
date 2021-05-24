@@ -63,6 +63,9 @@ I am an India based computer science student and web developer, I am currenlty p
 
 <hr>
 
+[![Vinita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinita2000)](https://github.com/vinita2000/github-readme-stats)
+
+
 <br />
 
 ![](https://komarev.com/ghpvc/?username=vinita2000&color=green&style=plastic&label=VIEWS)
