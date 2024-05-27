@@ -24,7 +24,7 @@ I am Data Analyst and a ETL developer, currently working at Deloitte.
  
 ###    :thought_balloon:  Social Links  :thought_balloon:
 
-<a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="40px" height="40px" src="https://github.com/vinita2000/profile/blob/master/git-img/profile.png" /></a>
+###<a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="40px" height="40px" src="https://github.com/vinita2000/profile/blob/master/git-img/profile.png" /></a>###
 <a href="https://www.linkedin.com/in/vinita-yadav-237725169/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/linkedIn.png" /></a>
 <a href="mailto:vinitayadavlkw225@gmail.com" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/email.png" /></a>
 <a href="https://stackoverflow.com/users/10667128/vinita" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/stackoverflow.png" /></a>
