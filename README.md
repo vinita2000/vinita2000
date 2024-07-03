@@ -10,7 +10,7 @@
 
 <br/>
 
-###   :fairy_woman:  About Me  :fairy_woman:
+<!--###   :fairy_woman:  About Me  :fairy_woman:-->
 I am Data Analyst and a ETL developer, currently working at Deloitte.
 - ⚡ Fun fact ⚡ -
      - I am open for collaborations and projects
