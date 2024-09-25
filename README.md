@@ -66,7 +66,7 @@ I am Data Analyst and a ETL developer, currently working at Deloitte.
 
 <br />
 
-[![Vinita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinita2000)](https://github.com/vinita2000)
+
 [![Vinita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinita2000&layout=pie)](https://github.com/vinita2000)
 
 <hr>
